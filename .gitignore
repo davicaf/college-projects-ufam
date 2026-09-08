@@ -1,0 +1,20 @@
+# Binários compilados (C)
+*.o
+*.out
+a.out
+campo_minado
+campo_minado_davicarlos
+fila_atendimento
+battleclient
+battleserver
+client/battleclient
+server/battleserver
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
