@@ -1,6 +1,6 @@
 # 🎓 College Projects — UFAM
 
-Coletânea de projetos práticos desenvolvidos durante a graduação em **Ciência da Computação** na **Universidade Federal do Amazonas (UFAM)**. Cada pasta contém um projeto independente, com seu próprio README explicando o problema resolvido, as tecnologias usadas e como executar.
+Coletânea de projetos práticos desenvolvidos durante a minha graduação em **Engenharia de Software** na **Universidade Federal do Amazonas (UFAM)**. Cada pasta contém um projeto independente, com seu próprio README explicando o problema resolvido, as tecnologias usadas e como executar.
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -17,4 +17,4 @@ Coletânea de projetos práticos desenvolvidos durante a graduação em **Ciênc
 
 ## 👤 Sobre
 
-Repositório mantido por **Davi Carlos**, estudante de Ciência da Computação na UFAM, reunindo trabalhos práticos de diferentes disciplinas do curso.
+Repositório mantido por **Davi Ferreira**, estudante de Engenharia de Software na UFAM, reunindo trabalhos práticos de diferentes disciplinas do curso.
