@@ -66,4 +66,4 @@ make               # compila server/battleserver e client/battleclient
 
 ## 👤 Autor
 
-Davi Carlos — Ciência da Computação, UFAM.
+Davi Carlos — Engenharia de Software, UFAM.
