@@ -39,4 +39,4 @@ Os notebooks foram desenvolvidos no Google Colab, com os dados (`enem2019.parque
 
 ## 👥 Autores
 
-Davi Carlos, Cristiano Cardoso e Matheus Santarém — Ciência da Computação, UFAM.
+Davi Carlos, Cristiano Cardoso e Matheus Santarém — Engenharia de Software, UFAM.
