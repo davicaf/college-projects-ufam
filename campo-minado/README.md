@@ -49,4 +49,4 @@ gcc -o fila_atendimento fila_atendimento.c Fila.c
 
 ## 👤 Autor
 
-Davi Carlos — Ciência da Computação, UFAM.
+Davi Carlos — Engenharia de Software, UFAM.
